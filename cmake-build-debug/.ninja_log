@@ -153,3 +153,6 @@
 7	190	7809546056655889	CMakeFiles/bubing_RM2025.elf.dir/Core/Src/main.c.obj	49281ca2a6a4c98f
 19	201	7809546056964914	CMakeFiles/bubing_RM2025.elf.dir/code_mf/Src/gimbal_motor_control.c.obj	d8bba2c5a235b13b
 201	410	7809546058297875	bubing_RM2025.elf	326f51475e0e7711
+6	100	7860455082468420	CMakeFiles/bubing_RM2025.elf.dir/code_mf/Src/auto_aim.c.obj	35dc989920310ed7
+8	100	7860455082478457	CMakeFiles/bubing_RM2025.elf.dir/code_mf/Src/refree_task.c.obj	d3bb4f33e51e9e08
+100	272	7860455083874101	bubing_RM2025.elf	326f51475e0e7711
